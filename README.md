@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Saber 🚀 
+# Hi, I'm Mohammed Saber  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sabero01&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Location-Libya-001225?style=flat&logo=google-maps&logoColor=white" alt="Location" />
@@ -12,7 +12,7 @@ I am a **Cybersecurity Enthusiast** with a **DevOps mindset**, operating at the 
 
 ---
 
-### 🛠️ [TECH_STACK]: Root Access Tools
+###  [TECH_STACK]: Root Access Tools
 ```bash
 saber@zorin-os:~$ ls --grid --icons /bin/skills
 ```
@@ -24,7 +24,7 @@ saber@zorin-os:~$ ls --grid --icons /bin/skills
 
 ---
 
-### 🛰️ [MISSION_LOG]: Current Objectives
+###  [MISSION_LOG]: Current Objectives
 - [ ] **Mastering CCNA:** Deep-diving into Routing, Switching, and Wireless Essentials.
 - [ ] **CompTIA Mastery:** Finalizing the Trifecta (A+, Network+, Security+).
 - [ ] **Encrypted Metadata Tool:** Developing a Python-based utility for secure data sanitization.
@@ -32,12 +32,12 @@ saber@zorin-os:~$ ls --grid --icons /bin/skills
 
 ---
 
-### 🕹️ [AFK_ZONE]: When I'm Not Coding
+###  [AFK_ZONE]: When I'm Not Coding
 When the terminal is closed, I'm usually:
-*   ⚔️ Searching for the **Elden Ring** and perfecting my parry timing.
-*   🧟 Surviving the Knox Event in **Project Zomboid** (and likely forgetting to boil the water).
-*   🛠️ Providing unsolicited **Tech Support** to friends and family.
-*   🐧 Hopping between Linux distros because the "perfect" config is a myth.
+*    Searching for the **Elden Ring** and perfecting my parry timing.
+*    Surviving the Knox Event in **Project Zomboid** (and likely forgetting to boil the water).
+*    Providing unsolicited **Tech Support** to friends and family.
+*    Hopping between Linux distros because the "perfect" config is a myth.
 
 ---
 
